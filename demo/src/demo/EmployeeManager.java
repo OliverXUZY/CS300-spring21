@@ -71,7 +71,7 @@ public class EmployeeManager {
 			   index = i;
 		   }
 	   }
-	   System.out.print(index);
+	   //System.out.print(index);
 	   
 	   name.remove(index);
 	   department.remove(index);
